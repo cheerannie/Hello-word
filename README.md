@@ -1,2 +1,4 @@
 # Hello-word
-study how to use github
+study how to use githu
+happy to study github
+
